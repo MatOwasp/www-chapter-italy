@@ -19,16 +19,21 @@ region: Europe
 
 <paypal>Italy</paypal>
 
-## **NEXT EVENT: OWASP Day in Udine - 27th September 2019**
+## **ISACA Venice AppSec Conference - 4th October 2020**
 
-The conference will take place next September 27th 2019.
+OWASP-Italy did a talk on "Software Security, the good, the bad, the ugly"
 
-The details of the conference agenda and selected speakers will be
-announced after closing the (CFP) Call For Papers on August 15th.
+You can download the slides here:
+[Slides of the conference](https://drive.google.com/drive/folders/1HqxcNxJ-Q-HnxFpqfplp-YtrnJsGdV7d)
 
-Confirmed keynote speaker is the American computer scientist, author,
-and researcher [Dr Gary
-McGraw](https://en.wikipedia.org/wiki/Gary_McGraw)
+
+More information here:
+
+[ISACA Venice VIII AppSec Conference](https://web.cvent.com/event/756e22c5-e900-4266-9e5f-90c88198dca4/summary?rp=00000000-0000-0000-0000-000000000000)
+
+## **OWASP Day in Udine - 27th September 2019**
+
+The conference did take place September 27th 2019.
 
 More information here:
 
